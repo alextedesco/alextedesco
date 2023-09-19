@@ -7,7 +7,7 @@
 
 ### :man_technologist: &nbsp;About Me:
 
-I'm Alex and I'm a second-year Computing and Information Technologies BS student at the Rochester Institute of Technology.
+I'm Alex and I'm a third-year Computing and Information Technologies BS student at the Rochester Institute of Technology.
 
 - 📒 Majoring in Computing & Information Technologies - Minoring in Journalism 
 - 🖼️ I have 5+ years of video editing and graphic design experience working with some of the top sports media companies in the world
