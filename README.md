@@ -11,8 +11,8 @@ I'm Alex and I'm a third-year Computing and Information Technologies BS student 
 
 - 📒 Majoring in Computing & Information Technologies - Minoring in Journalism 
 - 🖼️ I have 5+ years of video editing and graphic design experience working with some of the top sports media companies in the world
-- 📽️ I operate a YouTube channel with 20K+ subscribers that focuses on short form daily NFL content.
-- 🏈 I am avids sports enjoyer. My favorite teams are the Buffalo Bills, Los Angeles Clippers, Los Angeles Dodgers, and the Buffalo Sabres
+- 📽️ I operate a YouTube channel with 25K+ subscribers that focuses on short-form daily NFL content.
+- 🏈 I am an avid sports enjoyer. My favorite teams are the Buffalo Bills, Los Angeles Clippers, Los Angeles Dodgers, and the Buffalo Sabres
 
 ---
 
@@ -54,4 +54,4 @@ I'm Alex and I'm a third-year Computing and Information Technologies BS student 
 ---
 
 ### 🎧 &nbsp;Recently Played Music:
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=MineMyThoughts)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=MineMyThoughts)](https://www.last.fm/user/MineMyThoughts)
